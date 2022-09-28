@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2022
+        since: 2022.09.27
         customText:
 
     dateFormat:
