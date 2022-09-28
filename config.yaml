@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -39,7 +39,7 @@ params:
 
     sidebar:
         emoji: 
-        subtitle: 
+        subtitle: E quindi uscimmo a riveder le stelle
         avatar:
             enabled: true
             local: true
