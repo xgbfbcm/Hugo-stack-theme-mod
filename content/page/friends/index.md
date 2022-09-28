@@ -14,6 +14,8 @@ menu:
             icon: home
         
 ---
+既然我都会搭了那大家也一定都会！
+
 <style>
 .article-header {
     display: none;
@@ -23,39 +25,4 @@ menu:
   }
 
 </style>
-
-
-
-
-
-
- 这个标题默认隐藏了标题与页尾，推荐用以下格式来交换友情链接。
-
-友链头像放在`/assets/link-img`，友链数据放在`/data/links.json`
-
-link.json格式为：
-
-```
-[
-    {
-        "title": "小球飞鱼",
-        "website": "https://mantyke.icu/",
-        "image": "mantyke.png",
-     "description": "我们会一起遇见鲸鱼吗？"
-    },
-	{
-        "title": "友情链接2",
-        "website": "",
-        "image": "",
-     "description": ""
-    }
-]
-```
-
-
-
-> 名称：小球飞鱼  
-> 简介：我们会一起遇见鲸鱼吗？  
-> 地址：[https://mantyke.icu/](https://mantyke.icu/)  
-> 头像：[https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png](https://cdn.jsdelivr.net/gh/Mantyke/photo@master/star_min.png)
 
