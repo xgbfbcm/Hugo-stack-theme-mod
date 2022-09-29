@@ -6,7 +6,7 @@ aliases:
   - about-us
   - about-hugo
   - contact
-license: CC BY-NC-ND
+
 lastmod: '2020-10-09'
 menu:
     main: 
@@ -14,4 +14,4 @@ menu:
         params:
             icon: user
 ---
-
+还在调试中
