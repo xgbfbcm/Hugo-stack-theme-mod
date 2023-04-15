@@ -4,7 +4,7 @@ date: -05-28
 description: 
 slug: "links"
 layout: links
-comments: false
+comments: true
 license: false
 menu: 
     main:
